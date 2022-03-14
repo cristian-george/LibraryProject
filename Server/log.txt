@@ -1,0 +1,34 @@
+[Info][2022-02-03 12:21:51] Starting server
+[Info][2022-02-03 12:21:51] SOCKET #196 has connected
+[Info][2022-02-03 12:21:52] SOCKET #196 has disconnected
+[Info][2022-02-04 01:28:13] Starting server
+[Info][2022-02-04 01:28:13] SOCKET #220 has connected
+[Warning][2022-02-04 01:28:20] SOCKET #220 : attempted to login
+[Info][2022-02-04 01:28:23] SOCKET #220 : has created an account with username:  Cristian08
+[Info][2022-02-04 01:28:28] User: Cristian08 has successfully borrowed the book with ID: 6
+[Info][2022-02-04 01:28:34] User: Cristian08 has successfully borrowed the book with ID: 4
+[Warning][2022-02-04 01:28:37] User: Cristian08 attempted to borrow the book with ID: 6
+[Info][2022-02-04 01:28:40] User: Cristian08 has successfully borrowed the book with ID: 8
+[Info][2022-02-04 01:28:44] User: Cristian08 has successfully borrowed the book with ID: 9
+[Info][2022-02-04 01:28:47] User: Cristian08 has successfully borrowed the book with ID: 10
+[Warning][2022-02-04 01:28:51] User: Cristian08 attempted to borrow the book with ID: 11
+[Info][2022-02-04 01:28:56] User: Cristian08 has found 50 books
+[Info][2022-02-04 01:29:02] User: Cristian08 has found 22 books
+[Info][2022-02-04 01:29:46] User: Cristian08 has found 12 books
+[Info][2022-02-04 01:30:05] User: Cristian08 has found 50 books
+[Info][2022-02-04 01:31:23] User: Cristian08 has successfully extended borrow duration for the book with ID: 10
+[Info][2022-02-04 01:31:28] User: Cristian08 has successfully extended borrow duration for the book with ID: 10
+[Warning][2022-02-04 01:31:31] User: Cristian08 attempted to extend their borrow duration for a book
+[Info][2022-02-04 01:31:43] User: Cristian08 has successfully returned the book with ID: 10
+[Info][2022-02-04 01:31:48] User: Cristian08 has successfully logged out
+[Info][2022-02-04 01:31:52] SOCKET #220 has disconnected
+[Info][2022-03-14 13:19:44] Starting server
+[Info][2022-03-14 13:23:28] Starting server
+[Info][2022-03-14 13:23:28] SOCKET #212 has connected
+[Info][2022-03-14 13:23:41] User: Cristian08 has successfully logged in
+[Info][2022-03-14 13:24:25] User: Cristian08 has successfully returned the book with ID: 6
+[Info][2022-03-14 13:24:28] User: Cristian08 has successfully returned the book with ID: 4
+[Info][2022-03-14 13:24:32] User: Cristian08 has successfully returned the book with ID: 8
+[Info][2022-03-14 13:24:35] User: Cristian08 has successfully returned the book with ID: 9
+[Info][2022-03-14 13:24:44] User: Cristian08 has removed their library account
+[Info][2022-03-14 13:24:49] SOCKET #212 has disconnected
