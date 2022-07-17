@@ -4,4 +4,4 @@ This is the implementation of the Library application that we've created for the
 
 ## Description
 
-[Here is our application](https://bitbucket.org/georgianagabor634/pac-project/src/master/Proiect/ "Team Repository on Bitbucket") of the Library Management System Project in C++.
+[Here is our application](https://bitbucket.org/georgianagabor634/libraryproject/src/master/ "Team Repository on Bitbucket") of the Library Management System Project in C++.
